@@ -1,5 +1,5 @@
 # 🙅 Interview Question
-![javascript](https://img.shields.io/badge/Javascript-YDNJSY-blue?logo=javascript)
+![javascript](https://img.shields.io/badge/Javascript-Interview-blue?logo=javascript)
 
 <br>
 
