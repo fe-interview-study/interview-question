@@ -20,7 +20,8 @@
 | __PS__ | | | |
 | | [undefined]() | `HeeJe LEE` | |
 | __Network__ | | | |
-| | [undefined]() | `Hochan Lee` | |
+| | [HTTP 란?](https://github.com/fe-interview-study/interview-question/issues/4) | `Hochan Lee` | |
+| | [브라우저 주소창에 URL(https://www.google.com) 입력시 발생하는 일?](https://github.com/fe-interview-study/interview-question/issues/3) | `Hochan Lee` | |
 
 <br>
 
