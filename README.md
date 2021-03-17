@@ -18,7 +18,7 @@
 | __Operating System__ | | | |
 | | [undefined]() | `SoHyun Park` | |
 | __PS__ | | | |
-| | [undefined]() | `HeeJe LEE` | |
+| | [Hash](https://github.com/fe-interview-study/interview-question/issues/1) | `HeeJe LEE` | |
 | __Network__ | | | |
 | | [HTTP 란?](https://github.com/fe-interview-study/interview-question/issues/4) | `Hochan Lee` | |
 | | [브라우저 주소창에 URL(https://www.google.com) 입력시 발생하는 일?](https://github.com/fe-interview-study/interview-question/issues/3) | `Hochan Lee` | |
