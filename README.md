@@ -12,11 +12,11 @@
 | 구분 | 주제 | 스케줄 | 날짜 |
 |:---|:---|:---:|:---:|
 | __Javascript__ | | | __03/22 (월)__ |
-| | [undefined]() | `Sungwoo Park` | |
+| | [call, apply, bind](https://github.com/fe-interview-study/interview-question/issues/7) | `Sungwoo Park` | |
 | __React__ | | | |
 | | [setState](https://github.com/fe-interview-study/interview-question/issues/5) | `Gwangyeol Im` | |
 | __Operating System__ | | | |
-| | [undefined]() | `SoHyun Park` | |
+| | [Asynchronous, Synchronous, Blocking, NonBlocking](https://github.com/fe-interview-study/interview-question/issues/6) | `SoHyun Park` | |
 | __PS__ | | | |
 | | [Hash](https://github.com/fe-interview-study/interview-question/issues/1) | `HeeJe LEE` | |
 | __Network__ | | | |
