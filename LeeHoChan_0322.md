@@ -46,7 +46,7 @@ The Hypertext Transfer Protocol (HTTP) is a stateless application-level protocol
 
 HTTP(Hypertext Transfer Protocol)는 분산, 협업, 하이퍼 텍스트 정보 시스템을 위한 비상태 애플리케이션 레벨 프로토콜이다.
 
-[RFC 7230](https://hochan049.gitbook.io/cs-interview/web/rfc-7320)에 명시되어 있다.
+RFC 7230 에 명시되어 있다.
 
 ## React
 
