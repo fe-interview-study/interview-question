@@ -12,18 +12,18 @@
 | 구분 | 주제 | 스케줄 | 날짜 |
 |:---|:---|:---:|:---:|
 | __Javascript__ | | | |
-| | [call, apply, bind](https://github.com/fe-interview-study/interview-question/issues/7) | `Sungwoo Park` | __03/22 (월)__ |
-| | [Event Loop란 무엇인가요?](https://github.com/fe-interview-study/interview-question/issues/10) | `Hochan Lee` | __03/29 (월)__ |
+| | [call, apply, bind](https://github.com/fe-interview-study/interview-question/issues/7) | `Sungwoo Park` | __03/22__ |
+| | [Event Loop란 무엇인가요?](https://github.com/fe-interview-study/interview-question/issues/10) | `Hochan Lee` | __03/29__ |
 | __React__ | | | |
-| | [setState](https://github.com/fe-interview-study/interview-question/issues/5) | `Gwangyeol Im` | __03/22 (월)__ |
+| | [setState](https://github.com/fe-interview-study/interview-question/issues/5) | `Gwangyeol Im` | __03/22__ |
 | __Operating System__ | | | |
-| | [Asynchronous, Synchronous, Blocking, NonBlocking](https://github.com/fe-interview-study/interview-question/issues/6) | `SoHyun Park` | __03/22 (월)__ |
+| | [Asynchronous, Synchronous, Blocking, NonBlocking](https://github.com/fe-interview-study/interview-question/issues/6) | `SoHyun Park` | __03/22__ |
 | __PS__ | | | |
-| | [Hash](https://github.com/fe-interview-study/interview-question/issues/1) | `HeeJe LEE` | __03/22 (월)__ |
+| | [Hash](https://github.com/fe-interview-study/interview-question/issues/1) | `HeeJe LEE` | __03/22__ |
 | __Network__ | | | |
-| | [HTTP 란?](https://github.com/fe-interview-study/interview-question/issues/4) | `Hochan Lee` | __03/22 (월)__ |
-| | [브라우저 주소창에 URL(https://www.google.com) 입력시 발생하는 일?](https://github.com/fe-interview-study/interview-question/issues/3) | `Hochan Lee` | __03/22 (월)__ |
-| | [TCP와 UDP의 차이는?](https://github.com/fe-interview-study/interview-question/issues/9) | `HeeJe LEE` | __03/29 (월)__ |
+| | [HTTP 란?](https://github.com/fe-interview-study/interview-question/issues/4) | `Hochan Lee` | __03/22__ |
+| | [브라우저 주소창에 URL(https://www.google.com) 입력시 발생하는 일?](https://github.com/fe-interview-study/interview-question/issues/3) | `Hochan Lee` | __03/22__ |
+| | [TCP와 UDP의 차이는?](https://github.com/fe-interview-study/interview-question/issues/9) | `HeeJe LEE` | __03/29__ |
 
 
 <br>
