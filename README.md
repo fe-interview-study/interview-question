@@ -5,7 +5,7 @@
 
 - 시간: 매주 월 오후 20시 (3/15~)
 - 장소: 온라인 미팅
-- 순서: ①Sungwoo Park ②Gwangyeol Im ③Sungwoo Park ④HeeJe LEE ⑤Hochan Lee
+- 순서: ①Sungwoo Park ②Gwangyeol Im ③SoHyun Park ④HeeJe LEE ⑤Hochan Lee
 
 <br>
 
