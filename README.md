@@ -15,7 +15,6 @@
 | | [call, apply, bind](https://github.com/fe-interview-study/interview-question/issues/7) | `Sungwoo Park` | __03/22__ |
 | | [Event Loop란 무엇인가요?](https://github.com/fe-interview-study/interview-question/issues/10) | `Hochan Lee` | __03/29__ |
 | | [함수 선언문과 표현식](https://github.com/fe-interview-study/interview-question/issues/17) | `HeeJe LEE` | __04/05__ |
-
 | __React__ | | | |
 | | [setState](https://github.com/fe-interview-study/interview-question/issues/5) | `Gwangyeol Im` | __03/22__ |
 | __Operating System__ | | | |
