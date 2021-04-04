@@ -21,7 +21,7 @@
 | | [setState](https://github.com/fe-interview-study/interview-question/issues/5) | `Gwangyeol Im` | __03/22__ |
 | | [컴포넌트 라이프사이클과 함수 컴포넌트](https://github.com/fe-interview-study/interview-question/issues/13) | `Sungwoo Park` | __03/29__ |
 | | [클래스 컴포넌트 vs 함수 컴포넌트](https://github.com/fe-interview-study/interview-question/issues/15) | `Sungwoo Park` | __03/29__ |
-| | | `Hochan Lee` | __04/05__ |
+| | [Reconciliation](https://github.com/fe-interview-study/interview-question/issues/21) | `Hochan Lee` | __04/05__ |
 | __PS__ | | | |
 | | [Hash](https://github.com/fe-interview-study/interview-question/issues/1) | `HeeJe LEE` | __03/22__ |
 | | [퀵소트의 시간복잡도와 개선](https://github.com/fe-interview-study/interview-question/issues/12) | `SoHyun Park` | __03/29__ |
@@ -30,7 +30,7 @@
 | __Operating System__ | | | |
 | | [Asynchronous, Synchronous, Blocking, NonBlocking](https://github.com/fe-interview-study/interview-question/issues/6) | `SoHyun Park` | __03/22__ |
 | | [프로세스 vs 스레드](https://github.com/fe-interview-study/interview-question/issues/11) | `Gwangyeol Im` | __03/29__ |
-| |  | `Sohyun Park` | __04/05__ |
+| | [프로세스와 스레드의 영역](https://github.com/fe-interview-study/interview-question/issues/20) | `Sohyun Park` | __04/05__ |
 | __Network__ | | | |
 | | [HTTP 란?](https://github.com/fe-interview-study/interview-question/issues/4) | `Hochan Lee` | __03/22__ |
 | | [브라우저 주소창에 URL(https://www.google.com) 입력시 발생하는 일?](https://github.com/fe-interview-study/interview-question/issues/3) | `Hochan Lee` | __03/22__ |
