@@ -1,7 +1,7 @@
 import random
 
-member = ['성우', '소현', '희제', '호찬']
-today = ['PS', 'OS/NET', 'JS', 'React']
+member = ['성우', '재서', '희제', '호찬']
+today = ['OS/NET', 'JS', 'React', 'PS']
 
 random_q = []
 
@@ -16,4 +16,4 @@ while True:
 		break
 
 for idx, ran_num in enumerate(random_q):
-	print(f"{member[idx]}는 {today[ran_num]} 질문을 받는다!")
+	print(f"{member[idx]}은(는) {today[ran_num]} 질문을 받는다!")
