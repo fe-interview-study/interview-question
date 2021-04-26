@@ -1,7 +1,7 @@
 import random
 
 member = ['성우', '재서', '희제', '호찬']
-today = ['OS/NET', 'JS', 'React', 'PS']
+today = ['React', 'PS', 'OS/NET', 'JS']
 
 random_q = []
 
