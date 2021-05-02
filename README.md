@@ -22,6 +22,7 @@
 | | [Garbage Collection](https://github.com/fe-interview-study/interview-question/issues/32) | `Sungwoo Park` | __04/19__ |
 | | [`==` vs `===`](https://github.com/fe-interview-study/interview-question/issues/38) | `Sungwoo Park` | __04/19__ |
 | | [ajax](https://github.com/fe-interview-study/interview-question/issues/39) | `Hochan Lee` | __04/26__ |
+| | [Prototype](https://github.com/fe-interview-study/interview-question/issues/48) | `HeeJe LEE` | __05/03__ |
 | __React__ | | | |
 | | [setState](https://github.com/fe-interview-study/interview-question/issues/5) | `Gwangyeol Im` | __03/22__ |
 | | [컴포넌트 라이프사이클과 함수 컴포넌트](https://github.com/fe-interview-study/interview-question/issues/13) | `Sungwoo Park` | __03/29__ |
@@ -34,6 +35,8 @@
 | | [HoC(High order Component)](https://github.com/fe-interview-study/interview-question/issues/33) | `Jaeseo Kim` | __04/19__ |
 | | [JSX 없는 React](https://github.com/fe-interview-study/interview-question/issues/37) | `Jaeseo Kim` | __04/19__ |
 | | [useRef](https://github.com/fe-interview-study/interview-question/issues/40) | `Sungwoo Park` | __04/26__ |
+| | [Custom Hook](https://github.com/fe-interview-study/interview-question/issues/52) | `Sungwoo Park` | __04/26__ |
+| | [React를 쓰는 이유](https://github.com/fe-interview-study/interview-question/issues/51) | `Hochan Lee` | __05/03__ |
 | __PS__ | | | |
 | | [Hash](https://github.com/fe-interview-study/interview-question/issues/1) | `HeeJe LEE` | __03/22__ |
 | | [퀵소트의 시간복잡도와 개선](https://github.com/fe-interview-study/interview-question/issues/12) | `SoHyun Park` | __03/29__ |
@@ -42,7 +45,10 @@
 | | [Stack에서 min 기능을 O(1)안에 구현해라](https://github.com/fe-interview-study/interview-question/issues/27) | `Sungwoo Park` | __04/05__ |
 | | [Pivotal 행렬의 뒤집기 로직](https://github.com/fe-interview-study/interview-question/issues/29) | `Hochan Lee` | __04/13__ |
 | | [DP의 핵심 개념 키워드](https://github.com/fe-interview-study/interview-question/issues/35) | `HeeJe LEE` | __04/19__ |
+| | [Max Heap의 데이터 처리 과정](https://github.com/fe-interview-study/interview-question/issues/44) | `HeeJe LEE` | __04/19__ |
 | | [Greedy Algorithm](https://github.com/fe-interview-study/interview-question/issues/41) | `Jaeseo Kim` | __04/26__ |
+| | [Greedy vs DP](https://github.com/fe-interview-study/interview-question/issues/46) | `Jaeseo Kim` | __04/26__ |
+| | [BFS vs DFS](https://github.com/fe-interview-study/interview-question/issues/50) | `Sungwoo Park` | __05/03__ |
 | __Operating System__ | | | |
 | | [Asynchronous, Synchronous, Blocking, NonBlocking](https://github.com/fe-interview-study/interview-question/issues/6) | `SoHyun Park` | __03/22__ |
 | | [프로세스 vs 스레드](https://github.com/fe-interview-study/interview-question/issues/11) | `Gwangyeol Im` | __03/29__ |
@@ -50,6 +56,8 @@
 | | [교착상태와 교착상태의 조건](https://github.com/fe-interview-study/interview-question/issues/36) | `Sungwoo Park` | __04/13__ |
 | | [Page falut](https://github.com/fe-interview-study/interview-question/issues/34) | `Hochan Lee` | __04/19__ |
 | | [메모리에서 Frame vs Page](https://github.com/fe-interview-study/interview-question/issues/43) | `Hochan Lee` | __04/19__ |
+| | [Mutex vs Semaphore](https://github.com/fe-interview-study/interview-question/issues/47) | `HeeJe LEE` | __04/26__ |
+| | [기아상태](https://github.com/fe-interview-study/interview-question/issues/) | `Jaeseo Kim` | __05/03__ |
 | __Network__ | | | |
 | | [HTTP 란?](https://github.com/fe-interview-study/interview-question/issues/4) | `Hochan Lee` | __03/22__ |
 | | [브라우저 주소창에 URL(https://www.google.com) 입력시 발생하는 일?](https://github.com/fe-interview-study/interview-question/issues/3) | `Hochan Lee` | __03/22__ |
